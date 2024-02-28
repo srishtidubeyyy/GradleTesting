@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CheckBoxTestGradle">
+    <test name="GradleCheckBox">
+        <classes>
+            <class name="test.CheckBoxTest" />
+        </classes>
+    </test>
+</suite>
